@@ -16,6 +16,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 p {
   font-family: "Open Sans", sans-serif;
 }
