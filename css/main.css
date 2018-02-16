@@ -24,26 +24,26 @@ p {
   font-family: "Open Sans", sans-serif;
 }
 
-.h2-1 {
-  font-family: "Rammetto One", sans-serif;
-}
-
-.h2-2 {
-  font-family: "Gravitas One", serif;
-}
-
-.h2-3 {
-  font-family: "Comfortaa", serif;
-}
-
 .unit1 {
   background-color: #e97065;
+}
+
+.unit1 h2 {
+  font-family: "Rammetto One", sans-serif;
 }
 
 .unit2 {
   background-color: #fbd25e;
 }
 
+.unit2 h2 {
+  font-family: "Gravitas One", serif;
+}
+
 .unit3 {
   background-color: #e86033;
+}
+
+.unit3 h2 {
+  font-family: Comfortaa, serif;
 }
